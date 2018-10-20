@@ -1,5 +1,3 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
 ## About Laravel
 
 Laravel API (LAPI) is a framework base on [Laravel](https://laravel.com/) while focusing more to API usage instead of the whole application. This framework aim to build for better performance and speed up the API development process. You are welcome to join for contribution. :
